@@ -58,6 +58,7 @@ header {
         font-weight: var(--fw-mild);
         border-radius: 1rem;
         padding: 0.25rem 1rem;
+        width: max-content;
     }
 
     .try-it:hover {
@@ -130,7 +131,7 @@ main {
             display: flex;
             flex-direction: column;
             text-align: center;
-            width: max-content;
+            width: 100%;
 
             img {
                 width: 30px;
@@ -153,7 +154,7 @@ main {
             display: flex;
             flex-direction: column;
             text-align: center;
-            width: max-content;
+            width: 100%;
 
             img {
                 width: 25px;
