@@ -123,6 +123,7 @@ main {
         background-size: 100%;
         background-position: bottom;
         padding-block: 2rem 8rem;
+        word-break: break-all;
 
         .communities-stats {
             font-family: var(--ff-open-sans);
